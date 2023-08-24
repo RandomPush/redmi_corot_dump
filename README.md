@@ -1,0 +1,14 @@
+# missi_phone_cn-user 13 TP1A.220624.014 V14.0.8.0.TMLCNXM release-keys
+- manufacturer: xiaomi
+- platform: commonmt6985
+- codename: corot
+- flavor: missi_phone_cn-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: V14.0.8.0.TMLCNXM
+- tags: release-keys
+- fingerprint: Redmi/corot/corot:13/TP1A.220624.014/V14.0.8.0.TMLCNXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phone_cn-user-13-TP1A.220624.014-V14.0.8.0.TMLCNXM-release-keys
+- repo: redmi_corot_dump
