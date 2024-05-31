@@ -1,0 +1,17 @@
+persist.sys.disable_rescue=true
+persist.sys.mcd_config_file=/system_ext/etc/mcd_default.conf
+persist.sys.support_view_smoothcorner=true
+persist.sys.support_window_smoothcorner=true
+persist.sys.timezone=Asia/Shanghai
+ro.config.isolated_compilation_enabled=true
+ro.control_privapp_permissions=disable
+ro.cp_system_other_odex=0
+ro.miui.ui.font.animation=disable
+ro.miui.ui.font.mi_font_path=/system/fonts/MiSansVF.ttf
+ro.miui.ui.font.theme_apply=true
+ro.miui.ui.font.version=3
+ro.miui.ui.fonttype=mipro
+ro.nnapi.extensions.deny_on_product=true
+ro.rom.zone=1
+ro.secureboot.devicelock=1
+ro.support_one_handed_mode=true

@@ -1,0 +1,14 @@
+# missi-user VanillaIceCream AP31.240322.016 V816.0.240520.1.VMLCNXM.PRE-DPP release-keys
+- manufacturer: xiaomi
+- platform: commonmt6985
+- codename: corot
+- flavor: missi-user
+- release: 14
+- id: AP31.240322.016
+- incremental: V816.0.240520.1.VMLCNXM.PRE-DPP
+- tags: release-keys
+- fingerprint: Redmi/corot/corot:13/TP1A.220624.014/V816.0.240520.1.VMLCNXM.PRE-DPP:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-VanillaIceCream-AP31.240322.016-V816.0.240520.1.VMLCNXM.PRE-DPP-release-keys
+- repo: redmi_corot_dump
